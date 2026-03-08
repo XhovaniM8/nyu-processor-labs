@@ -1,12 +1,15 @@
 # macOS specific files
 .DS_Store
 
+# Claude Code memory
+.claude/
+
 # Visual Studio Code settings
 .vscode/
 
 # Build directories and output
-onboarding-lab-1/cmake-test/build/
 build/
+labs/lab-1/cmake-test/build/
 dist/
 out/
 obj/
